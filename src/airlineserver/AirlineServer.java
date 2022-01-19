@@ -10,7 +10,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class AirlineServer {
-    // variables
+    //
     private static ServerSocket serverSocket;
     private static Socket clientSocket;
     private static InputStreamReader inputStreamReader;
